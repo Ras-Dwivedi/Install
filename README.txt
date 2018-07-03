@@ -7,4 +7,10 @@ Idea is to have basic programms installed via script and not to install each on 
 4. Tusk client for evernote
 5. Flashplayer plugin
 6. Qbit torrent
-7. DC=++
+7. DC++
+8. Python
+9. Google chrome
+10. Sublime text
+11 Dropbox
+12. Vim
+

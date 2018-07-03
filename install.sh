@@ -86,6 +86,9 @@ rm ~/Downloads/dropbox_2015.10.28_amd64.deb
 echo "Deleting used files for dropbox"
 sleep 5
 
-
+#Installing DC++
+sudo apt-get install linuxdcpp
+echo "DC++ INSTALLED"
+sleep 5
 
 
