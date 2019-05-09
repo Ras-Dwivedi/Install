@@ -29,7 +29,8 @@ echo "Installing docker compose"
 
 # installing docker compose:
 sudo apt-get install python-pip
-sudo pip install docker-compose
+sudp apt install docker-compose
+# sudo pip install docker-compose
 
 #Cheching the version of docker-compose
 #Link is https://vexxhost.com/resources/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-14-04/
