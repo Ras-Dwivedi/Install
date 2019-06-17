@@ -91,4 +91,23 @@ sudo apt-get install linuxdcpp
 echo "DC++ INSTALLED"
 sleep 5
 
+#Installing mailspring
+sudo snap install mailspring
+echo "Installed MailSprin : an email client"
+sleep 5
 
+#Installing java
+sudo apt-get install default-jre
+sudo apt-get install default-jdk
+echo $(java --version)
+echo $(javac --version)
+echo "Installed java "
+sleep 5
+
+#Installing scala
+#sudo apt-get install -y scala
+#echo "Installed scala"
+
+#Installing vlc
+sudo apt-get install -y vim
+echo "Installed VLC :)"
