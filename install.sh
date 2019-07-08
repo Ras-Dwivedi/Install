@@ -112,3 +112,20 @@ echo "Installed scala"
 #Installing vlc
 sudo apt-get install -y vlc
 echo "Installed VLC :)"
+
+#installing nettools
+sudo apt-get install net-tools
+echo "Net tools needed for ifconfig installed"
+sleep 5
+
+#installing texstudio
+sudo apt-get install texstudio
+echo "Texstudio insatlled, need to install texlive now"
+sleep 5
+
+#Installing pip
+sudo apt-get install python-pip
+echo "Python pip installed"
+sudo apt-get install python3-pip
+scho "Python pip3 installed"
+sleep 5
